@@ -1,5 +1,5 @@
 # Basic-Banking-System
-This repository contains source code of Basic Banking System
+This repository contains source code for Basic Banking System
 
 
   Create a simple dynamic website which has the following features.
